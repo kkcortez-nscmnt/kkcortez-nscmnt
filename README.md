@@ -17,7 +17,6 @@ Entusiasta na área de desenvolvimento web.🌐<br>
   <img align="center" alt="jamil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jamil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jamil-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="right" alt="Bulba" src="https://tenor.com/view/pokemon-bulbasaur-walk-gif-4910084">
 </div>
- </div>
-![Pokemon Bulbasaur GIF](https://tenor.com/view/pokemon-bulbasaur-walk-gif-4910084)
+
+![pokemon-bulbasaur](https://user-images.githubusercontent.com/69372682/134406631-661d9df9-e095-4b6d-beb2-30aa96f3bc18.gif)
