@@ -9,4 +9,4 @@ Entusiasta na área de desenvolvimento web.🌐<br>
 </div>
  
  
-![pokemon-bulbasaur](https://user-images.githubusercontent.com/69372682/134406631-661d9df9-e095-4b6d-beb2-30aa96f3bc18.gif)
+
