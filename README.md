@@ -5,7 +5,7 @@ Pesquisador na área de recursos hídricos e hidrologia computacional.⛈️<br>
 Desenvolvimento web.🌐<br>
 
 - Python <br>
+- JavaScript <br>
 - Django / Django REST Framework <br>
-- Java Script <br>
-- Vue.js <br>
+- Vue.js / Quasar Framework <br>
 - PostgreSQL
