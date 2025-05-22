@@ -1,11 +1,8 @@
-Mestrando no Programa de Pós-Graduação em Recursos Hídricos - UFPel.<br>
-Engenheiro Agrícola - UFPel. 🌿<br>
-Pesquisador na área de recursos hídricos e hidrologia computacional.⛈️<br>
-
-Desenvolvimento web.🌐<br>
+Mestre em Recursos Hídricos pelo Programa de Pós-Graduação do Centro de Desenvolvimento Tecnológico - UFPel.<br>
+Engenheiro Agrícola pelo Centro de Engenharias - UFPel. <br>
 
 - Python <br>
 - JavaScript <br>
 - Django / Django REST Framework <br>
-- Vue.js / Quasar Framework <br>
-- PostgreSQL
+- PostgreSQL <br>
+- Análise de dados - Machine Learning
