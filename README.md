@@ -5,5 +5,6 @@ Programação Web pelo Instituto Federal de Educação, Ciência e Tecnologia do
 - Python <br>
 - JavaScript <br>
 - Django / Django REST Framework <br>
+- React <br>
 - PostgreSQL <br>
 - Análise de dados - Machine Learning
